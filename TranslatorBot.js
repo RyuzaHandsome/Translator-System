@@ -56,9 +56,5 @@ const arg = args[0]
 
 }  
 
-Translate Code blurple_bot 
 
-# V13 Handler
-
-# Install @iamtraction/google-translate
 
